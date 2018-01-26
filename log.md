@@ -4,7 +4,7 @@
 
 **Todays Progress:** Started with Javascript 30 challenge 
 
-### Day 02 - January 20, 2018 Friday
+### Day 02 - January 20, 2018 Saturday
 
 **Todays Progress:** Completed the 2nd day Challenge
 
