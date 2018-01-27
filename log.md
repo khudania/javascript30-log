@@ -4,6 +4,11 @@
 
 **Todays Progress:** Started with Javascript 30 challenge 
 
+**Project Link:** &nbsp;[Github Link](#)
+
+**Github Repo Link**  &nbsp;[Day 01()](#)
+
+
 ### Day 02 - January 20, 2018 Saturday
 
 **Todays Progress:** Completed the 2nd day Challenge
