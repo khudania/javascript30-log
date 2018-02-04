@@ -33,11 +33,4 @@
 **Github Repo Link**  &nbsp;[Day 04()](#)
 
 
-### Day 05: January 23, 2018 Tuesday
-
-**Today's Progress:** 
-**Project Link:** &nbsp;[Github Link](#)
-
-**Github Repo Link**  &nbsp;[Day 05()](#)
-
 
