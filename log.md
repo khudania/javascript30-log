@@ -11,7 +11,8 @@
 
 ### Day 02 - January 20, 2018 Saturday
 
-**Todays Progress:** Completed the 2nd day Challenge
+**Todays Progress:** Completed the 2nd day Challenge and Created the Analog Clock Using js
+
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/jsClock/)
 
 **Github Repo Link**  &nbsp;[Day 02(jsClock)](https://github.com/khudania/jsClock)
