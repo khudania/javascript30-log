@@ -14,7 +14,7 @@
 **Todays Progress:** Completed the 2nd day Challenge
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/jsClock/)
 
-**Github Repo Link**  &nbsp;[Day 02()](#)
+**Github Repo Link**  &nbsp;[Day 02(jsClock)](https://github.com/khudania/jsClock)
 
 
 ### Day 03: January 21, 2018 Sunday
