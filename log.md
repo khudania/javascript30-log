@@ -18,7 +18,7 @@
 **Github Repo Link**  &nbsp;[Day 02(jsClock)](https://github.com/khudania/jsClock)
 
 
-### Day 03: January 21, 2018 Sunday
+### Day 03: Feburary 22, 2018 Thrusday
 
 **Today's Progress:** 
 **Project Link:** &nbsp;[Github Link](#)
@@ -29,3 +29,4 @@
 
 
 
+### Day 04: Feburary 23, 2018 Friday
