@@ -29,4 +29,4 @@
 
 
 
-### Day 04: Feburary 23, 2018 Friday
+### Day 04: 
