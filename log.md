@@ -23,10 +23,3 @@
 **Today's Progress:** 
 **Project Link:** &nbsp;[Github Link](#)
 
-**Github Repo Link**  &nbsp;[Day 03()](#)
-
-
-
-
-
-### Day 04: 
