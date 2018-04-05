@@ -21,5 +21,6 @@
 ### Day 03: Feburary 22, 2018 Thrusday
 
 **Today's Progress:** 
+
 **Project Link:** &nbsp;[Github Link](#)
 
