@@ -22,5 +22,5 @@
 
 **Today's Progress:** 
 
-**Project Link:** &nbsp;[Github Link](#)
+**Project Link:** &nbsp;[Github Link]
 
